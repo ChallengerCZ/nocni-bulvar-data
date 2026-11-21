@@ -182,4 +182,14 @@ Ve hře jsou upravené (velikost, natočení, výběr částí, přebarvení).
     "AC Cobra 289 Mk.2 roadster 1963" od freeReef
     https://sketchfab.com/3d-models/ac-cobra-289-mk2-roadster-1963-f1aaf6d037414a179fb544a853c89b39
 
+  Domy ve městě:
+  mesto-kenney.js – "Retro Urban Kit" od Kenney (www.kenney.nl), licence CC0 (volné dílo)
+    https://kenney.nl/assets/retro-urban-kit
+
+  Diváci u startu a v cíli:
+  postavy-quaternius.js – "Man in Suit", "Man in Long Sleeves", "Man", "Casual Character", "Animated Woman"
+    od Quaternius (quaternius.com), licence CC0 (volné dílo); staženo z poly.pizza
+    https://poly.pizza/m/mQnGoME1ez  https://poly.pizza/m/DLptRuewTn  https://poly.pizza/m/fjHyMd5Wxw
+    https://poly.pizza/m/kZ3DmIoGip  https://poly.pizza/m/qJ2gsTUBHL
+
 Vše ostatní (procedurální náhradní auta, město, zvuky, grafika menu) je vytvořeno přímo ve hře.

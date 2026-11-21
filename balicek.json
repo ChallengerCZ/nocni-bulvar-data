@@ -1,6 +1,6 @@
 {
  "hra": "Noční bulvár '63",
- "verze": "2026-11-21-a223908f",
+ "verze": "2026-11-21-fff47ead",
  "soubory": [
   {
    "n": "auto-apx.js",
@@ -186,6 +186,16 @@
    "n": "dil-slick.js",
    "size": 1460470,
    "sha": "4a29069661597d00b0af7aa5935f3c4d81b889a6152e14740219aae6aa432a11"
+  },
+  {
+   "n": "mesto-kenney.js",
+   "size": 1841870,
+   "sha": "1b1299b6e25eaed626b89832ee39a6b7d814dded48eaea30cb8c80fd796fb7fe"
+  },
+  {
+   "n": "postavy-quaternius.js",
+   "size": 6062764,
+   "sha": "d7166b006c8b722336c306f76170b1de21c487ef53f67fffbe019cb6fa9b854d"
   },
   {
    "n": "poust-benzinka-50.js",
