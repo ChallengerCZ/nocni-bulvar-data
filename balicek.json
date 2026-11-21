@@ -1,6 +1,6 @@
 {
  "hra": "Noční bulvár '63",
- "verze": "2026-11-21-ebda5a88",
+ "verze": "2026-11-21-a223908f",
  "soubory": [
   {
    "n": "auto-apx.js",
@@ -13,6 +13,16 @@
    "sha": "3a17b49f798dbfee23c4b25ca29fd67248eb40d1f064cf2b4e7265fd7ef01646"
   },
   {
+   "n": "auto-belair.js",
+   "size": 2613507,
+   "sha": "78274e05c2403b560d8d18e346ed460dd3310c1b0d37146362e7178423ae026c"
+  },
+  {
+   "n": "auto-bonaventure.js",
+   "size": 321032,
+   "sha": "dcbcecc7eaf94c7ae79fe3824909864de6bc695276c26dce833caccc1bc26a9e"
+  },
+  {
    "n": "auto-canyon.js",
    "size": 1575194,
    "sha": "bf74aad22c4ee591403123e56bfc554ff2abaa7fa0a24ad6c790d6bbd8aaa85f"
@@ -21,6 +31,11 @@
    "n": "auto-cinquina.js",
    "size": 4696232,
    "sha": "44dacfbb510b15314209cb3faa52ceb89fc0ba9fc4fd3944ea85c8b4fd754794"
+  },
+  {
+   "n": "auto-copperhead.js",
+   "size": 2372860,
+   "sha": "e29ecddebd6b52d4c40b4ca94fe1e61592ad4c8d72fa8693c8a9657908a93399"
   },
   {
    "n": "auto-duke.js",
@@ -36,6 +51,16 @@
    "n": "auto-eugene.js",
    "size": 2194108,
    "sha": "ebc482ceaa0d2d1775ffab63ef07d27eb184bfc5b3e943964b58b38b0930d944"
+  },
+  {
+   "n": "auto-grandeur.js",
+   "size": 4860302,
+   "sha": "4ffc354b82222c50df0aec198298acceb8ab2b512022e87317f132914b2334a2"
+  },
+  {
+   "n": "auto-impulse.js",
+   "size": 8126573,
+   "sha": "dcefd43f73b34888a8069ed951cf3831ac7aa4603a85a0f7c9b4af73ae9f529f"
   },
   {
    "n": "auto-kafer.js",
@@ -61,6 +86,11 @@
    "n": "auto-phoenix.js",
    "size": 1776323,
    "sha": "fac8d376acbc03d3e9861004af0cdea3745d99144f3613ec77286c5e11239ce4"
+  },
+  {
+   "n": "auto-pickman.js",
+   "size": 5173628,
+   "sha": "d041db77f8950c1e575fd06d17a4d18e05fff46bd40030f49d35e5968ed705d0"
   },
   {
    "n": "auto-rancher.js",
@@ -98,6 +128,11 @@
    "sha": "9c14387e580c97fbbd058927a6aa7f0a6e330ce4c9e7d4cac00462ed719eb26c"
   },
   {
+   "n": "auto-stepside.js",
+   "size": 3284374,
+   "sha": "05412d7158886d6f3fd776ee5303d3640b74ad68e2fd83fcb6e2c08a233d3e63"
+  },
+  {
    "n": "auto-suggan.js",
    "size": 1778269,
    "sha": "a8f644930a85130e2e96b016bd785d2dbc1e806806fd609860a5df971e96bb02"
@@ -111,6 +146,11 @@
    "n": "auto-zorin.js",
    "size": 14075295,
    "sha": "408ef00e250d49578e40808a95ed7c76b745ec1e1c2826f98b8d92453b5660d2"
+  },
+  {
+   "n": "auto-zuk.js",
+   "size": 3021950,
+   "sha": "65d3e270a43abe375371110714a3520a544f99e98903fd2e958c05f078185e59"
   },
   {
    "n": "dil-ar39.js",

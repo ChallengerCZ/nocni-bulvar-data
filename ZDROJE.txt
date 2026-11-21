@@ -156,4 +156,30 @@ Ve hře jsou upravené (velikost, natočení, výběr částí, přebarvení).
   poust-startovni-cara.js – "Starting Line" od Anthony Yanez (Yanez Designs)
     https://sketchfab.com/3d-models/ecb35b3e5b424f9dbf54174e6c5907de
 
+  Další vozy do inzerátů a auta bossů (CC BY 4.0, ve hře upraveno):
+  auto-zuk.js – Lublin dodávka '62
+    "(FREE) Żuk 3D model" od Karol Miklas (Lionsharp Studios)
+    https://sketchfab.com/3d-models/free-zuk-3d-model-bb4OJb5V4L0hgYjM3vtGvPB7ZMt
+  auto-stepside.js – Stepper '51 pickup
+    "1951 Chevy StepSide Truck" od Nick Rosenthal
+    https://sketchfab.com/3d-models/1951-chevy-stepside-truck-4f53676a14ec4d3295d969441655b09c
+  auto-belair.js – Belle Aire '54
+    "Chevy Bel Air 1954" od dagtholander
+    https://sketchfab.com/3d-models/chevy-bel-air-1954-be7089002f4b4d858a0422d6a374a211
+  auto-grandeur.js – Grandeur 75 '53
+    "Low Poly Car - Cadillac 75 Sedan 1953" od tedpermana (ROH3D)
+    https://sketchfab.com/3d-models/low-poly-car-cadillac-75-sedan-1953-2935f8faa5f64ce4a3bd65af0f925c21
+  auto-pickman.js – Pickman 10 '63 (boss třídy D)
+    "Low Poly Car - Chevrolet C10 Pickup 1963" od tedpermana (ROH3D)
+    https://sketchfab.com/3d-models/low-poly-car-chevrolet-c10-pickup-1963-679354c151984747bb74310ec5af8995
+  auto-impulse.js – Impulse '64 (boss třídy C)
+    "Chevrolet Impala 1967- supernatural" od Negrin
+    https://sketchfab.com/3d-models/chevrolet-impala-1967-supernatural-cb03ce730658410499f084c493f142bd
+  auto-bonaventure.js – Bonaventure '64 (boss třídy B)
+    "1966 Pontiac Bonneville" od Grzybek
+    https://sketchfab.com/3d-models/1966-pontiac-bonneville-fc40905b32504ec49a71a06821259eeb
+  auto-copperhead.js – Copperhead 289 '63 (boss třídy A)
+    "AC Cobra 289 Mk.2 roadster 1963" od freeReef
+    https://sketchfab.com/3d-models/ac-cobra-289-mk2-roadster-1963-f1aaf6d037414a179fb544a853c89b39
+
 Vše ostatní (procedurální náhradní auta, město, zvuky, grafika menu) je vytvořeno přímo ve hře.
