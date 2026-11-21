@@ -89,6 +89,14 @@ Ve hře jsou upravené (velikost, natočení, výběr částí, přebarvení).
     "Canyon 75 Custom" od Daniel Zhabotinsky
     https://sketchfab.com/3d-models/canyon-75-custom-low-poly-model-bd4c9883b9194ba1ac1c7f22300976b9
 
+  dil-cragar.js – chromové magy (použit jeden disk ze sady)
+    "Cragar Bonneville 391" od collinbachet
+    https://sketchfab.com/3d-models/cragar-bonneville-391-f2766372a83243cda7ccafc5f5977db1
+
+  dil-dragtire.js – pneumatika k magům
+    "Drag Tire" od svzvx
+    https://sketchfab.com/3d-models/drag-tire-43f73a1be38b451388f8f762dd1e3508
+
   trat-americka.js – zkušební dráha (silnice v poušti; ve hře narovnaná do rovinky a poskládaná za sebe)
     "American Road" od jimbogies
     https://sketchfab.com/3d-models/american-road-179a1e6a0a154031a60f300fc73d9dd8

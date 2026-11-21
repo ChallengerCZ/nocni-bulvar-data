@@ -1,6 +1,6 @@
 {
  "hra": "Noční bulvár '63",
- "verze": "2026-11-21-60bfed45",
+ "verze": "2026-11-21-23a97980",
  "soubory": [
   {
    "n": "auto-apx.js",
@@ -88,9 +88,19 @@
    "sha": "a8f644930a85130e2e96b016bd785d2dbc1e806806fd609860a5df971e96bb02"
   },
   {
+   "n": "dil-cragar.js",
+   "size": 4867699,
+   "sha": "ab48dcf628d535ce87776f4a75436b3b14025a112fe39a67bf217142566a4e5b"
+  },
+  {
    "n": "dil-disk-weld.js",
    "size": 846648,
    "sha": "d25652ee0af6b0be5d660020855b458a189cd69964f1231f596f0b2427596c7b"
+  },
+  {
+   "n": "dil-dragtire.js",
+   "size": 1639805,
+   "sha": "b46c775f5df3a23db4705ab4f6ced48aea8f6b904d8069472bfeafd8d549fbcc"
   },
   {
    "n": "dil-kridlo.js",
