@@ -1,6 +1,6 @@
 {
  "hra": "Noční bulvár '63",
- "verze": "2026-11-21-23a97980",
+ "verze": "2026-11-21-836f32f5",
  "soubory": [
   {
    "n": "auto-apx.js",
@@ -8,9 +8,19 @@
    "sha": "6453e3973af3eb1cc4a143f9b2f3951b458d5e20b497902698a4f61142225a82"
   },
   {
+   "n": "auto-bambino.js",
+   "size": 3060017,
+   "sha": "3a17b49f798dbfee23c4b25ca29fd67248eb40d1f064cf2b4e7265fd7ef01646"
+  },
+  {
    "n": "auto-canyon.js",
    "size": 1575194,
    "sha": "bf74aad22c4ee591403123e56bfc554ff2abaa7fa0a24ad6c790d6bbd8aaa85f"
+  },
+  {
+   "n": "auto-cinquina.js",
+   "size": 4696232,
+   "sha": "44dacfbb510b15314209cb3faa52ceb89fc0ba9fc4fd3944ea85c8b4fd754794"
   },
   {
    "n": "auto-duke.js",
@@ -26,6 +36,11 @@
    "n": "auto-eugene.js",
    "size": 2194108,
    "sha": "ebc482ceaa0d2d1775ffab63ef07d27eb184bfc5b3e943964b58b38b0930d944"
+  },
+  {
+   "n": "auto-kafer.js",
+   "size": 1149061,
+   "sha": "6c39d7080abf6bf9387b2501197ab00ac47a4d2adf59cd4185929c7331b7c5a6"
   },
   {
    "n": "auto-lasley.js",
@@ -86,6 +101,21 @@
    "n": "auto-suggan.js",
    "size": 1778269,
    "sha": "a8f644930a85130e2e96b016bd785d2dbc1e806806fd609860a5df971e96bb02"
+  },
+  {
+   "n": "auto-zapik.js",
+   "size": 25949156,
+   "sha": "4130883a80f2a378dafa8b0ab34da877951e65e04fcdf6396b57f88d911ffd07"
+  },
+  {
+   "n": "auto-zorin.js",
+   "size": 14075295,
+   "sha": "408ef00e250d49578e40808a95ed7c76b745ec1e1c2826f98b8d92453b5660d2"
+  },
+  {
+   "n": "dil-ar39.js",
+   "size": 1330793,
+   "sha": "9d414508f1b9f54fae40802441ef6d80546d8e22892859bff0fb8d490fe71a4a"
   },
   {
    "n": "dil-cragar.js",

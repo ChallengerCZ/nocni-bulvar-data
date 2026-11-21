@@ -89,9 +89,30 @@ Ve hře jsou upravené (velikost, natočení, výběr částí, přebarvení).
     "Canyon 75 Custom" od Daniel Zhabotinsky
     https://sketchfab.com/3d-models/canyon-75-custom-low-poly-model-bd4c9883b9194ba1ac1c7f22300976b9
 
+  Levné staré vozy (CC BY 4.0):
+  auto-bambino.js – Bambino 126 '62
+    "Fiat 126p Maluch - free" od NETRUNNER_pl
+    https://sketchfab.com/3d-models/fiat-126p-maluch-free-907fe3ed09694c71b6b0e8b001d25d8d
+  auto-cinquina.js – Cinquina 500 '58
+    "Fiat" od saeed khalili
+    https://sketchfab.com/3d-models/fiat-e33b0694c8394683874c8c85e138419b
+  auto-zorin.js – Zorin 101 '38
+    "Vehicle ZIS-101" od Anton Sereda
+    https://sketchfab.com/3d-models/64681d43998343cfb8dfb666634e8689
+  auto-kafer.js – Käfer '57
+    "[FREE] Volkswagen Beetle 1957" od Velrifea
+    https://sketchfab.com/3d-models/free-volkswagen-beetle-1957-dad1bf64ba9a489ab8bdb0897c79d9fa
+  auto-zapik.js – Zapík 965 '62
+    "Car Scene" (ZAZ-965) od toivo
+    https://sketchfab.com/3d-models/car-scene-b7b32eaca80d460c9338197e2c9d1408
+
   dil-cragar.js – chromové magy (použit jeden disk ze sady)
     "Cragar Bonneville 391" od collinbachet
     https://sketchfab.com/3d-models/cragar-bonneville-391-f2766372a83243cda7ccafc5f5977db1
+
+  dil-ar39.js – hliníkové magy
+    "15x8" American Racing AR39" od Jetta
+    https://sketchfab.com/3d-models/15x8-american-racing-ar39-b5ec1df1a4c343ecb71946484c9981d6
 
   dil-dragtire.js – pneumatika k magům
     "Drag Tire" od svzvx
