@@ -89,4 +89,8 @@ Ve hře jsou upravené (velikost, natočení, výběr částí, přebarvení).
     "Canyon 75 Custom" od Daniel Zhabotinsky
     https://sketchfab.com/3d-models/canyon-75-custom-low-poly-model-bd4c9883b9194ba1ac1c7f22300976b9
 
+  trat-americka.js – zkušební dráha (silnice v poušti; ve hře narovnaná do rovinky a poskládaná za sebe)
+    "American Road" od jimbogies
+    https://sketchfab.com/3d-models/american-road-179a1e6a0a154031a60f300fc73d9dd8
+
 Vše ostatní (procedurální náhradní auta, město, zvuky, grafika menu) je vytvořeno přímo ve hře.

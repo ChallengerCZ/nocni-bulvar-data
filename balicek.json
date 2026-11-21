@@ -1,6 +1,6 @@
 {
  "hra": "Noční bulvár '63",
- "verze": "2026-11-21-2536579a",
+ "verze": "2026-11-21-60bfed45",
  "soubory": [
   {
    "n": "auto-apx.js",
@@ -111,6 +111,11 @@
    "n": "tex-auta.js",
    "size": 20632502,
    "sha": "466f666357eece30b7028227ce473810211f2b9de68f64a24e850ca9074072f8"
+  },
+  {
+   "n": "trat-americka.js",
+   "size": 21459318,
+   "sha": "ce3375a56cc1c115505cb92d39750070182684f035cf9400ce7abb3b6322cfd9"
   }
  ]
 }
