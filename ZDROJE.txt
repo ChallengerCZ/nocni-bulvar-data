@@ -122,4 +122,38 @@ Ve hře jsou upravené (velikost, natočení, výběr částí, přebarvení).
     "American Road" od jimbogies
     https://sketchfab.com/3d-models/american-road-179a1e6a0a154031a60f300fc73d9dd8
 
+  Okolí zkušební dráhy (lib/poust-*.js, CC BY 4.0; ve hře zmenšené textury a rozmístění):
+  poust-kaktusy-pack.js – "Cactus | Pack" od Erroratten (YadroGames)
+    https://sketchfab.com/3d-models/588596f1601d48e6ad4cb24b31c3f33c
+  poust-kaktus-saguaro.js – "Low Poly Saguaro Cactus" od marishka1611
+    https://sketchfab.com/3d-models/7888ad87c8af4fdc8e1592bf05f24dbc
+  poust-kere-suche.js – "Low Poly Desert Shrub - Dry Bush" od marishka1611
+    https://sketchfab.com/3d-models/7d0076e00a4b48fa8e1f42d6e3384fc1
+  poust-tumbleweed.js – "Tumbleweed" od biggreenorange
+    https://sketchfab.com/3d-models/e9fa341c64fe4626b5d5b0052b0c0b64
+  poust-strom-suchy.js – "Low Poly: Dead Tree" od ClintonAbbott.Art
+    https://sketchfab.com/3d-models/addc2aef9e534a93a8798320fea440ef
+  poust-skaly-norgeot.js – "Lowpoly Rocks - Free Download" od Loïc Norgeot
+    https://sketchfab.com/3d-models/c5da5675001f4bec9ecfbc8343453417
+  poust-skaly-polyone.js – "Free Pack - Rocks Stylized" od PolyOne Studio
+    https://sketchfab.com/3d-models/7c60b4d1b8ab4187965f30c5e0212fc0
+  poust-utesy.js – "Cliffs" od DJMaesen
+    https://sketchfab.com/3d-models/14fe5023840146179c8515093e88fae0
+  poust-hory-poust.js – "Desert Mountains (low poly)" od Götz von Berlichingen
+    https://sketchfab.com/3d-models/e6ff5793f27b4972b716698b7ee284d9
+  poust-stop-rezava.js – "Rusty Stop Sign" od Anthony Yanez (Yanez Designs)
+    https://sketchfab.com/3d-models/2225bb40891b4ed083a75bd17e447dd0
+  poust-sloup-elektro.js – "Electrical Box with Telephone Pole" od PolyDavid
+    https://sketchfab.com/3d-models/b7a47d8eb5c84403968463914345ce45
+  poust-ploty-rezave.js – "Low | Fences | Old | Rusty | Desert | Pack" od Erroratten (YadroGames)
+    https://sketchfab.com/3d-models/c196e6c907bb44c2ae733de5754e0d3f
+  poust-dum-opusteny.js – "Abandoned | Building | Shop | Old | House" od Erroratten (YadroGames)
+    https://sketchfab.com/3d-models/0ed14367314946b298d9a58db66da040
+  poust-benzinka-50.js – "50's Abandoned Desert Tank Station" od Icaro Arrigoni
+    https://sketchfab.com/3d-models/9aa92c9729c64a8d879160142b8b9a2d
+  poust-stojan-benzin.js – "Vintage Gas Pump" od Rescue3D Assets
+    https://sketchfab.com/3d-models/0096f206ce1a4381bea58f9f94fc6b1c
+  poust-startovni-cara.js – "Starting Line" od Anthony Yanez (Yanez Designs)
+    https://sketchfab.com/3d-models/ecb35b3e5b424f9dbf54174e6c5907de
+
 Vše ostatní (procedurální náhradní auta, město, zvuky, grafika menu) je vytvořeno přímo ve hře.

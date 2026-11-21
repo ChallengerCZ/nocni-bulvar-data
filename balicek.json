@@ -1,6 +1,6 @@
 {
  "hra": "Noční bulvár '63",
- "verze": "2026-11-21-836f32f5",
+ "verze": "2026-11-21-ebda5a88",
  "soubory": [
   {
    "n": "auto-apx.js",
@@ -146,6 +146,86 @@
    "n": "dil-slick.js",
    "size": 1460470,
    "sha": "4a29069661597d00b0af7aa5935f3c4d81b889a6152e14740219aae6aa432a11"
+  },
+  {
+   "n": "poust-benzinka-50.js",
+   "size": 2637964,
+   "sha": "17d8f886be84b3606ddd996c8b0709ba6e0627eb0cac47b431aa020b66730ee6"
+  },
+  {
+   "n": "poust-dum-opusteny.js",
+   "size": 2836557,
+   "sha": "0f8ca7ca3e228a632f7e2bc7041aac4781228106e98aa0cb673a4ff298f74c82"
+  },
+  {
+   "n": "poust-hory-poust.js",
+   "size": 163791,
+   "sha": "43fa588a966a56a86a9f617ac8b960561b5b54f2ffd83018c7f337144e2c5849"
+  },
+  {
+   "n": "poust-kaktus-saguaro.js",
+   "size": 60779,
+   "sha": "3ac06c6230593b99d7fb896ae8023014159cec2fd41a2cd4608f42da7da3be43"
+  },
+  {
+   "n": "poust-kaktusy-pack.js",
+   "size": 637457,
+   "sha": "c3069d7a5886c57d0c591c24d8a7263f1df09be62717e73878c3b466140a2261"
+  },
+  {
+   "n": "poust-kere-suche.js",
+   "size": 20487,
+   "sha": "9c001f02bb518fc89687831705edc158a7aa70fee9b5c1d0f2bc2c6341c1650a"
+  },
+  {
+   "n": "poust-ploty-rezave.js",
+   "size": 2082873,
+   "sha": "f2cf5d9085603763e5c0b2549c282565f3c2cc44a401f6ba907a613b6a2cadb7"
+  },
+  {
+   "n": "poust-skaly-norgeot.js",
+   "size": 5439218,
+   "sha": "cd462e3a4a6e57056c399fb286a979d4a6f7883a8fa75137bf3993db186a0a0a"
+  },
+  {
+   "n": "poust-skaly-polyone.js",
+   "size": 210882,
+   "sha": "29479da1f6c19dfd1fc2ebd2558e56762f22cc4f40f67c0f928732e8e647a4bf"
+  },
+  {
+   "n": "poust-sloup-elektro.js",
+   "size": 561634,
+   "sha": "5e30c9c9dd45eca6a4a7bfab3677d779afb640af8c08071324fb629187193170"
+  },
+  {
+   "n": "poust-startovni-cara.js",
+   "size": 465275,
+   "sha": "b2a25866daaf960e57cbbe85d3b089f6e1e70ba01af3bfaec6b1cfb2e33037bd"
+  },
+  {
+   "n": "poust-stojan-benzin.js",
+   "size": 1367354,
+   "sha": "8e0f1483a0341f59c00db03c35bea1b31c5389a3b17986fa3ba46220e4641bad"
+  },
+  {
+   "n": "poust-stop-rezava.js",
+   "size": 1151148,
+   "sha": "3939f85326380e352c04468ce76581ab9f9f5350be682cbd43df9eab35086281"
+  },
+  {
+   "n": "poust-strom-suchy.js",
+   "size": 236348,
+   "sha": "c670c0f0e40de57a1a39fdd82bedbcb0db2215d34b632c2be06157c7b489a7e9"
+  },
+  {
+   "n": "poust-tumbleweed.js",
+   "size": 307663,
+   "sha": "682672f10cc138e127049ca050419f778b0f2a9454d17262f1ad68fc27808a86"
+  },
+  {
+   "n": "poust-utesy.js",
+   "size": 526650,
+   "sha": "ac711112b0681b21cca42808b65627298248d6d04e005709d8f59d8579fead26"
   },
   {
    "n": "tex-auta.js",
