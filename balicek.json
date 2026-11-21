@@ -1,6 +1,6 @@
 {
  "hra": "Noční bulvár '63",
- "verze": "2026-11-21-fff47ead",
+ "verze": "2026-11-21-0dfde62b",
  "soubory": [
   {
    "n": "auto-apx.js",
@@ -181,6 +181,11 @@
    "n": "dil-motor454.js",
    "size": 10380956,
    "sha": "55f5d628667863e780947b5b507612618e64a70650055d77503531d054221ab3"
+  },
+  {
+   "n": "dil-padak.js",
+   "size": 780268,
+   "sha": "9b858f562e1464c404d362456d246328b9069650d55efcdff2aac8ce5876f6e5"
   },
   {
    "n": "dil-slick.js",

@@ -182,6 +182,10 @@ Ve hře jsou upravené (velikost, natočení, výběr částí, přebarvení).
     "AC Cobra 289 Mk.2 roadster 1963" od freeReef
     https://sketchfab.com/3d-models/ac-cobra-289-mk2-roadster-1963-f1aaf6d037414a179fb544a853c89b39
 
+  dil-padak.js – brzdicí padák (vystřelí v cíli)
+    "Drag Chute" od bellekenzy21, licence CC BY 4.0
+    https://sketchfab.com/3d-models/drag-chute-d5c26ff9142045488d5f49ff0529b02b
+
   Domy ve městě:
   mesto-kenney.js – "Retro Urban Kit" od Kenney (www.kenney.nl), licence CC0 (volné dílo)
     https://kenney.nl/assets/retro-urban-kit
