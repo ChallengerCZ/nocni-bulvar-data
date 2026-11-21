@@ -1,0 +1,92 @@
+ZDROJE A LICENCE
+================
+
+Three.js r160 (3D grafika)
+  https://threejs.org – licence MIT, text v souboru three-LICENSE.txt
+
+3D modely ze Sketchfabu – licence Creative Commons Attribution 4.0 (CC BY 4.0)
+https://creativecommons.org/licenses/by/4.0/
+Ve hře jsou upravené (velikost, natočení, výběr částí, přebarvení).
+
+  auto-starliner.js – vůz Starliner V8 '57
+    "Low Poly Car - Chrysler Saratoga 1960" od ROH3D
+    https://sketchfab.com/3d-models/low-poly-car-chrysler-saratoga-1960-3fa89e6bf78b49aab111af4195efb6fe
+
+  dil-motor454.js – kompresor s nasáváním (použita jen horní část motoru)
+    "Blown 454 cid V8" od Jorma Rysky
+    https://sketchfab.com/3d-models/blown-454-cid-v8-b7a63eeaa12d4c1d93324a4c09fc79c7
+
+  dil-kridlo.js – závodní křídlo
+    "Big Country Labs Style Spoiler Wing" od Socksthecat
+    https://sketchfab.com/3d-models/big-country-labs-style-spoiler-wing-a0e040a6c7aa40babe210e9e7637a846
+
+  dil-slick.js – drag slick
+    "hoosier drag tire" od dermaks
+    https://sketchfab.com/3d-models/hoosier-drag-tire-3778f71211314bba92bef0b1564a8ec5
+
+  dil-disk-weld.js – závodní disk
+    "Weld Pro Star" od svzvx
+    https://sketchfab.com/3d-models/weld-pro-star-f1911b98ac964d11a7b4d96c064acfe5
+
+  Auta od autora Daniel Zhabotinsky (CC BY 4.0, pokud není uvedeno jinak),
+  společné textury jsou v tex-auta.js:
+
+  auto-rod33b.js, auto-rod33s.js, auto-rod33y.js – Brandt Coupé, Brandt Hiboy, Brandt Deluxe
+    "Coupe 33 Hot Rod 1, 2 a 3 (Low Poly Model)" od Daniel Zhabotinsky
+    https://sketchfab.com/3d-models/coupe-33-hotrod-1-low-poly-model-1f00f875bd594469ad41e377585dc0fc
+    https://sketchfab.com/3d-models/coupe-33-hot-rod-2-low-poly-model-c880d700b7ec445ea9718e1b73f97e3e
+    https://sketchfab.com/3d-models/coupe-33-hot-rod-3-low-poly-model-cb5b519024c7472895ef10a8663fb533
+
+  auto-rancher.js – Kestrel pickup
+    "Rancher 50 Custom" od Daniel Zhabotinsky
+    https://sketchfab.com/3d-models/rancher-50-custom-low-poly-model-7f75854aba96417f8279bd9f1b24e6b2
+
+  auto-suggan.js – Suggan Rat Rod (licence Sketchfab Free Standard)
+    "Suggan 53 Modified" od Daniel Zhabotinsky
+    https://sketchfab.com/3d-models/suggan-53-modified-low-poly-model-dd4a4752aa254249990882159a014683
+
+  auto-duntov.js – Duntov Roadster
+    "Duntov 57" od Daniel Zhabotinsky
+    https://sketchfab.com/3d-models/duntov-57-low-poly-model-a6840c4f4b4b45ca805d0f76e809f042
+
+  auto-eugene.js – Eugene 4×4
+    "Eugene Mk6 65" od Daniel Zhabotinsky
+    https://sketchfab.com/3d-models/eugene-mk6-65-low-poly-model-22732575b0644cc9b65cf21857288189
+
+  auto-lasley.js – Lasley Mini
+    "Lasley 67" od Daniel Zhabotinsky
+    https://sketchfab.com/3d-models/lasley-67-low-poly-model-1269720ec7b84c899eac77c1d325141e
+
+  auto-maureen.js – Maureen GT
+    "Maureen 67" od Daniel Zhabotinsky
+    https://sketchfab.com/3d-models/maureen-67-low-poly-model-e9abc7cb4713498ab04edd9678c44998
+
+  auto-palomino.js – Marauder
+    "Palomino Special 67" od Daniel Zhabotinsky
+    https://sketchfab.com/3d-models/palomino-special-67-low-poly-model-8419d645064e4b1699d970375e1c3cc7
+
+  auto-duke.js – Vortex
+    "Duke 69" od Daniel Zhabotinsky
+    https://sketchfab.com/3d-models/duke-69-low-poly-model-46fed79f600c4fc69e060991f9e3e4f9
+
+  auto-sialia.js – Sialia kombi
+    "Sialia SW 68" od Daniel Zhabotinsky
+    https://sketchfab.com/3d-models/sialia-sw-68-low-poly-model-eea2291a90f04a4b860c9e74be14f2d6
+
+  auto-phoenix.js – Phoenix 455 Interceptor
+    "Phoenix 455 71 Interceptor" od Daniel Zhabotinsky
+    https://sketchfab.com/3d-models/phoenix-455-71-interceptor-low-poly-model-fbd5b96599944932a71fc8c81291253c
+
+  auto-apx.js – APX 390
+    "APX 70" od Daniel Zhabotinsky
+    https://sketchfab.com/3d-models/apx-70-low-poly-model-28ef95f2c0ef41a697b90c071fd4b25c
+
+  auto-sanremo.js – Sanremo GT
+    "Sanremo 70" od Daniel Zhabotinsky
+    https://sketchfab.com/3d-models/sanremo-70-low-poly-model-b2261c471645417a8b7e5882d541c248
+
+  auto-canyon.js – Comet
+    "Canyon 75 Custom" od Daniel Zhabotinsky
+    https://sketchfab.com/3d-models/canyon-75-custom-low-poly-model-bd4c9883b9194ba1ac1c7f22300976b9
+
+Vše ostatní (procedurální náhradní auta, město, zvuky, grafika menu) je vytvořeno přímo ve hře.

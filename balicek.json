@@ -1,0 +1,116 @@
+{
+ "hra": "Noční bulvár '63",
+ "verze": "2026-11-21-2536579a",
+ "soubory": [
+  {
+   "n": "auto-apx.js",
+   "size": 1383483,
+   "sha": "6453e3973af3eb1cc4a143f9b2f3951b458d5e20b497902698a4f61142225a82"
+  },
+  {
+   "n": "auto-canyon.js",
+   "size": 1575194,
+   "sha": "bf74aad22c4ee591403123e56bfc554ff2abaa7fa0a24ad6c790d6bbd8aaa85f"
+  },
+  {
+   "n": "auto-duke.js",
+   "size": 1243846,
+   "sha": "2999afe77861bd5a018ff773b28f080f0bf45b1600a3ca5f85815cdcdecf7376"
+  },
+  {
+   "n": "auto-duntov.js",
+   "size": 1335072,
+   "sha": "0f7032c748e7903e16ca709ce4805be3f593c4cd95fb9a4b527a840c74395e02"
+  },
+  {
+   "n": "auto-eugene.js",
+   "size": 2194108,
+   "sha": "ebc482ceaa0d2d1775ffab63ef07d27eb184bfc5b3e943964b58b38b0930d944"
+  },
+  {
+   "n": "auto-lasley.js",
+   "size": 1465150,
+   "sha": "aef77f7a788b269694c5c5f445998b0fe8091f0ed39ae0362c9bdf7a6f3484d5"
+  },
+  {
+   "n": "auto-maureen.js",
+   "size": 1078541,
+   "sha": "d545127a96752a8ec61a2d99586d112f3ef57cfe242c3c643909d037f561fe91"
+  },
+  {
+   "n": "auto-palomino.js",
+   "size": 1132706,
+   "sha": "b2c3fe67ec6ee068607f76a5ca26314640463ead0b809a8b8e23e42b205e2a6d"
+  },
+  {
+   "n": "auto-phoenix.js",
+   "size": 1776323,
+   "sha": "fac8d376acbc03d3e9861004af0cdea3745d99144f3613ec77286c5e11239ce4"
+  },
+  {
+   "n": "auto-rancher.js",
+   "size": 1185196,
+   "sha": "c9fe57e47275db406e193054900befec6225ab83785612c385c8da52e6d46248"
+  },
+  {
+   "n": "auto-rod33b.js",
+   "size": 1323572,
+   "sha": "d0c2dec10503ba4e78c21066f2510bca1cfb7de3c2a3ca544cf77b1571e89fd9"
+  },
+  {
+   "n": "auto-rod33s.js",
+   "size": 1249618,
+   "sha": "cf13d1e31fddaf944ccfdad84b6302f2b585a2343f6531b5b86ce32e4eb5bbd3"
+  },
+  {
+   "n": "auto-rod33y.js",
+   "size": 1502530,
+   "sha": "a1b8c6781f1dcb2c6a127b476e21bf49099e64c5443a054eac4279911c7a8b35"
+  },
+  {
+   "n": "auto-sanremo.js",
+   "size": 960394,
+   "sha": "703a66114b63dfe565d6da90010f88cebd124d387c7422a7c99c0d0fab21d030"
+  },
+  {
+   "n": "auto-sialia.js",
+   "size": 1196352,
+   "sha": "9268b365baf42a9e79d37147d31d3f869e9524357c969953bcb062bb127febc8"
+  },
+  {
+   "n": "auto-starliner.js",
+   "size": 4981712,
+   "sha": "9c14387e580c97fbbd058927a6aa7f0a6e330ce4c9e7d4cac00462ed719eb26c"
+  },
+  {
+   "n": "auto-suggan.js",
+   "size": 1778269,
+   "sha": "a8f644930a85130e2e96b016bd785d2dbc1e806806fd609860a5df971e96bb02"
+  },
+  {
+   "n": "dil-disk-weld.js",
+   "size": 846648,
+   "sha": "d25652ee0af6b0be5d660020855b458a189cd69964f1231f596f0b2427596c7b"
+  },
+  {
+   "n": "dil-kridlo.js",
+   "size": 7544069,
+   "sha": "57db14904d8e4f9507933289ab5c12f1aa03f62cc65ab97606d630989c4e5c50"
+  },
+  {
+   "n": "dil-motor454.js",
+   "size": 10380956,
+   "sha": "55f5d628667863e780947b5b507612618e64a70650055d77503531d054221ab3"
+  },
+  {
+   "n": "dil-slick.js",
+   "size": 1460470,
+   "sha": "4a29069661597d00b0af7aa5935f3c4d81b889a6152e14740219aae6aa432a11"
+  },
+  {
+   "n": "tex-auta.js",
+   "size": 20632502,
+   "sha": "466f666357eece30b7028227ce473810211f2b9de68f64a24e850ca9074072f8"
+  }
+ ]
+}
